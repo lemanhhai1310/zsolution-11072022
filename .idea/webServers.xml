@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0da5e8b9-0511-4eac-b87d-c7cc3b4d5e8a" name="zsolution" url="http://116.118.50.53">
+        <fileTransfer rootFolder="/themes.cathtmlcss.net/2022/07/1vrutech" host="116.118.50.53" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
